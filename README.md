@@ -18,6 +18,7 @@ To test whether consensus democracy improves economic outcomes, I use Lijphartâ€
 
 ## Code and Resources Used 
 **R Version:** 4.0 
+
 **Theoretical Background:** Patterns of Democracy, Arend Lijphart (2012)
 
 ## Exploratory Analysis 
