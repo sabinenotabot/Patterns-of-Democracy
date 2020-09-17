@@ -17,8 +17,8 @@ To test whether consensus democracy improves economic outcomes, I use Lijphart�
 * Interest group corporatism is the main driver of the relationship between consensus democracy and unemployment. Corporatism being the main driver of the effect on unemployment might cause doubt on the role of consensus democracy more broadly, as Lijphart points out that “there is no clear causal connection that links it [interest group corporatism] to the other variables [making up consensus democracy]” (Lijphart, p.70)
 
 ## Code and Resources Used 
-** R Version: ** 4.0 
-** Theoretical Background: ** Patterns of Democracy, Arend Lijphart (2012)
+**R Version:** 4.0 
+**Theoretical Background:** Patterns of Democracy, Arend Lijphart (2012)
 
 ## Exploratory Analysis 
 
