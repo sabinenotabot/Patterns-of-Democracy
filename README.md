@@ -25,3 +25,7 @@ To test whether consensus democracy improves economic outcomes, I use Lijphartâ€
 
 * the countries with populations smaller than 0.5 million (i.e. the Bahamas, Barbados, Iceland, Luxembourg and Malta) have been excluded from the analysis since their economies are likely strongly influenced by international economic forces.  
 * countries with missing data are also excluded from the analysis
+
+## Regression Analysis
+
+## Conclusion
