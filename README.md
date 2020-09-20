@@ -88,13 +88,43 @@ The executive-parties dimension consists of the percentage of minimal winning ca
 | HDI 2010  | -12.62 | 0.3509 |
 | Population Size | -1.133 * 10^-5 | 0.3452 |
 
-* theealysis shows that when the executive-parties score increases by one unit, unemployment rates drop by 1.8% percent.
+
+**Adjusted R-Squared:** 0.2717
+
+* The analysis shows that when the executive-parties score increases by one unit, unemployment rates drop by 1.8% percent.
+* The model has modest explanatory power: 27% of variance in unemployment can be explained by our model.
+* The relationship between consensus democracy and unemployment is significant at the 10% level. Out of the three economic measures under consideration, unemployment is the only measure on which consensus democracy has a statistically significant effect. 
+
+**Discussion**
+
+The results of the analysis are surprising, as it seems that when the type of democracy has an influence on economic outcomes, consensus democracy produces superior outcomes.Regarding the influence that the different institutional structures of democracies have on economic outcomes, Olson (1982) claims that consensus democracy does not improve economic outcomes. According to Olson, organizations that represent only a small fraction of society have strong incentives to make economic decision based on their own interests without considering the cost of their activities on society as a whole. For example, in a federal system a representative of a federal unit with a lot of agriculture might be likely to support subsidies for agriculture, even though such subsidies will not benefit the national economy. 
+
+However, the positive effects on unemployment might be explained by one trait included in the executive-parties index: interest group corporatism/pluralism. Lijphart states that the characteristics of the corporatists interest groups associated with consensus democracy are that they are “large in size and small in number” (p.158) and coordinated in monopolistic peak organizations which tend to include a large portion of a country’s labour force.
 
 
-**Adjusted R-Squared:** 0.004066 
+### Individual traits of consensus democracy on unemployment
 
+The executive-parties index consists of individual elements that are considered traits of consensus democracies. These are: Interest group pluralism, number of parties, % of minimal winning cabinets, executive dominance and disproportionality. To investigate our hypothesis that interest group corporatism is driving the relationship between consensus democracy and lower unemployment rates and to understand this relationship further, I permorm a regression of the individual elements of the exectuive-parties index on unemployment, to see how each individual factor effects unemployment. I also control for development and population size as before. 
 
+| Variables | Coefficient | p value |
+| ------------- | ------------- | --- |
+| Interest Group Pluralism  |3.316| 0.00255|
+| Effective Number of Parties  |0.4759 | 0.57505|
+| Effective Number of Parties  |0.4759 |0.29581|
+| % of minimal winning cabinets | -0.03870  | 0.3452 |
+| Executive dominance | 0.9151 |0.02079|
+|Disproportionality | -0.2401 |0.19655|
+| HDI 2010  | -0.1770  | 0.13240 |
+| Population Size | -6.136 x 10*^-6 |0.56762|
 
-### Effect of individual traits on unemployment
+**Adjusted R-Squared:** 0.5634
+
+* These results show that out of the variables of the executive-parties dimension, interest group pluralism has a far greater effect on unemployment than any of the others do. An increase of one unit in interest group pluralism, results in 3.3% higher unemployment. Moreover, this relationship is statistically significant at the 1% level. 
+* This confirms our hypothesis that interest group pluralism is driving the relationship between consensus democracy and lower unemployment rates
+* The only other variable which has a statistically significant relationship with unemployment is executive dominance
+* The model has decent explanatory power: About 56% of the variation in unemployment can be explained by the model.
+
 
 ## Conclusion
+
+One would expect that consensus democracy does not improve economic outcomes, since actors have strong incentives to make economic decision based on their own interests without considering the cost of their activities on society as a whole. Having analysed the relationship between consensus democracy and GDP growth, inflation and unemployment, I find that the type of democracy only makes a significant difference when it comes to unemployment. Contrary to expectations, I find that consensus democracy decreases unemployment. However, I also find that interest group corporatism is the main driver of this relationship.
