@@ -37,7 +37,13 @@ Most of the cleaning work has already been done in the dataset provided. However
 
 ## Exploratory Analysis 
 
+To get a better idea of the distribution of the data, I create histograms for the variables of interest, including both our outcomes of interest, explanatory variable and control variables.
 
+![Histogram of executive-party score from 1981-2010](https://github.com/sabinenotabot/Patterns-of-Democracy/blob/master/Histogram%20Executive%20Parties%20Index.png
+)
+
+
+![Histogram of unemployment rate 1981-2010](https://github.com/sabinenotabot/Patterns-of-Democracy/blob/master/Histogram%20Unemployment%201.png)
 
 
 ## Regression Analysis
