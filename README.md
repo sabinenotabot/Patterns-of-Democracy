@@ -79,8 +79,7 @@ The executive-parties dimension consists of the percentage of minimal winning ca
 
 
 **Unemployment**
-[Insert Image] 
-
+![Visualization of univariate regression of unemployment on executive-parties index](https://github.com/sabinenotabot/Patterns-of-Democracy/blob/master/Regression%20Visualization.png)
 
 | Variables | Coefficient | p value |
 | ------------- | ------------- | --- |
